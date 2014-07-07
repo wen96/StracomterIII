@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<map>
+    <object type="perimeter">
+        <vertexlist>
+            <vertex id="0" x="279" y="65" />
+            <vertex id="1" x="731" y="75" />
+            <vertex id="2" x="1536" y="240" />
+            <vertex id="3" x="1560" y="1120" />
+            <vertex id="4" x="1573" y="1875" />
+            <vertex id="5" x="1180" y="1936" />
+            <vertex id="6" x="406" y="1929" />
+            <vertex id="7" x="-56" y="1812" />
+            <vertex id="8" x="-93" y="159" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="353" y="298" />
+            <vertex id="1" x="76" y="298" />
+            <vertex id="2" x="76" y="348" />
+            <vertex id="3" x="353" y="348" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="76" y="342" />
+            <vertex id="1" x="76" y="505" />
+            <vertex id="2" x="119" y="505" />
+            <vertex id="3" x="119" y="342" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="119" y="502" />
+            <vertex id="1" x="350" y="502" />
+            <vertex id="2" x="350" y="455" />
+            <vertex id="3" x="119" y="455" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="580" y="302" />
+            <vertex id="1" x="580" y="502" />
+            <vertex id="2" x="626" y="502" />
+            <vertex id="3" x="626" y="302" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="773" y="308" />
+            <vertex id="1" x="773" y="495" />
+            <vertex id="2" x="820" y="495" />
+            <vertex id="3" x="820" y="308" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1013" y="312" />
+            <vertex id="1" x="1013" y="352" />
+            <vertex id="2" x="1230" y="352" />
+            <vertex id="3" x="1230" y="312" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1223" y="325" />
+            <vertex id="1" x="1193" y="325" />
+            <vertex id="2" x="1193" y="502" />
+            <vertex id="3" x="1223" y="502" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1220" y="472" />
+            <vertex id="1" x="1016" y="472" />
+            <vertex id="2" x="1016" y="512" />
+            <vertex id="3" x="1220" y="512" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="166" y="849" />
+            <vertex id="1" x="166" y="1015" />
+            <vertex id="2" x="229" y="1015" />
+            <vertex id="3" x="229" y="849" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="53" y="1019" />
+            <vertex id="1" x="53" y="1072" />
+            <vertex id="2" x="236" y="1072" />
+            <vertex id="3" x="236" y="1019" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="353" y="879" />
+            <vertex id="1" x="353" y="1065" />
+            <vertex id="2" x="400" y="1065" />
+            <vertex id="3" x="400" y="879" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="376" y="1022" />
+            <vertex id="1" x="376" y="1069" />
+            <vertex id="2" x="536" y="1069" />
+            <vertex id="3" x="536" y="1022" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="53" y="1232" />
+            <vertex id="1" x="53" y="1282" />
+            <vertex id="2" x="226" y="1282" />
+            <vertex id="3" x="226" y="1232" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="203" y="1269" />
+            <vertex id="1" x="203" y="1435" />
+            <vertex id="2" x="246" y="1435" />
+            <vertex id="3" x="246" y="1269" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="370" y="1255" />
+            <vertex id="1" x="370" y="1302" />
+            <vertex id="2" x="533" y="1302" />
+            <vertex id="3" x="533" y="1255" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="386" y="1289" />
+            <vertex id="1" x="386" y="1425" />
+            <vertex id="2" x="433" y="1425" />
+            <vertex id="3" x="433" y="1289" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="883" y="859" />
+            <vertex id="1" x="883" y="1055" />
+            <vertex id="2" x="940" y="1055" />
+            <vertex id="3" x="940" y="859" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1073" y="879" />
+            <vertex id="1" x="1073" y="1062" />
+            <vertex id="2" x="1126" y="1062" />
+            <vertex id="3" x="1126" y="879" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1083" y="999" />
+            <vertex id="1" x="1083" y="1065" />
+            <vertex id="2" x="1260" y="1065" />
+            <vertex id="3" x="1260" y="999" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="943" y="999" />
+            <vertex id="1" x="783" y="999" />
+            <vertex id="2" x="783" y="1055" />
+            <vertex id="3" x="943" y="1055" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="790" y="1209" />
+            <vertex id="1" x="790" y="1279" />
+            <vertex id="2" x="933" y="1279" />
+            <vertex id="3" x="933" y="1209" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="873" y="1229" />
+            <vertex id="1" x="873" y="1402" />
+            <vertex id="2" x="926" y="1402" />
+            <vertex id="3" x="926" y="1229" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1100" y="1215" />
+            <vertex id="1" x="1100" y="1285" />
+            <vertex id="2" x="1286" y="1285" />
+            <vertex id="3" x="1286" y="1215" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1110" y="1229" />
+            <vertex id="1" x="1110" y="1392" />
+            <vertex id="2" x="1160" y="1392" />
+            <vertex id="3" x="1160" y="1229" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="393" y="1632" />
+            <vertex id="1" x="153" y="1632" />
+            <vertex id="2" x="153" y="1669" />
+            <vertex id="3" x="393" y="1669" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="153" y="1666" />
+            <vertex id="1" x="153" y="1789" />
+            <vertex id="2" x="196" y="1789" />
+            <vertex id="3" x="196" y="1666" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="163" y="1759" />
+            <vertex id="1" x="163" y="1792" />
+            <vertex id="2" x="396" y="1792" />
+            <vertex id="3" x="396" y="1759" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="583" y="1629" />
+            <vertex id="1" x="583" y="1789" />
+            <vertex id="2" x="626" y="1789" />
+            <vertex id="3" x="626" y="1629" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="750" y="1642" />
+            <vertex id="1" x="750" y="1802" />
+            <vertex id="2" x="803" y="1802" />
+            <vertex id="3" x="803" y="1642" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="993" y="1642" />
+            <vertex id="1" x="993" y="1682" />
+            <vertex id="2" x="1243" y="1682" />
+            <vertex id="3" x="1243" y="1642" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1246" y="1656" />
+            <vertex id="1" x="1200" y="1656" />
+            <vertex id="2" x="1200" y="1809" />
+            <vertex id="3" x="1246" y="1809" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1240" y="1776" />
+            <vertex id="1" x="1020" y="1776" />
+            <vertex id="2" x="1020" y="1816" />
+            <vertex id="3" x="1240" y="1816" />
+        </vertexlist>
+    </object>
+    <object type="player" angle="0.0" rank="1" x="273" y="155" />
+</map>

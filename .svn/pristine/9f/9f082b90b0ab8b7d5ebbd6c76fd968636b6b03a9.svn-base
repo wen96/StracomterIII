@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<map>
+    <object type="perimeter">
+        <vertexlist>
+            <vertex id="0" x="-356" y="-466" />
+            <vertex id="1" x="785" y="-466" />
+            <vertex id="2" x="785" y="549" />
+            <vertex id="3" x="79" y="549" />
+            <vertex id="4" x="79" y="204" />
+            <vertex id="5" x="-356" y="204" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="50" y="-275" />
+            <vertex id="1" x="50" y="-250" />
+            <vertex id="2" x="350" y="-250" />
+            <vertex id="3" x="350" y="-275" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="50" y="-275" />
+            <vertex id="1" x="50" y="-75" />
+            <vertex id="2" x="75" y="-75" />
+            <vertex id="3" x="75" y="-275" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="325" y="-275" />
+            <vertex id="1" x="325" y="-75" />
+            <vertex id="2" x="350" y="-75" />
+            <vertex id="3" x="350" y="-275" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="75" y="-100" />
+            <vertex id="1" x="75" y="-75" />
+            <vertex id="2" x="150" y="-75" />
+            <vertex id="3" x="150" y="-100" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="250" y="-100" />
+            <vertex id="1" x="250" y="-75" />
+            <vertex id="2" x="325" y="-75" />
+            <vertex id="3" x="325" y="-100" />
+        </vertexlist>
+    </object>
+    <object type="door">
+        <vertexlist>
+            <vertex id="0" x="150" y="-100" />
+            <vertex id="1" x="150" y="-75" />
+            <vertex id="2" x="250" y="-75" />
+            <vertex id="3" x="250" y="-100" />
+        </vertexlist>
+    </object>
+    <object type="miniBoss" x="-120" y="0" angle="0" />
+    <object type="obstacle" subtype="0" x="128" y="466" angle="0" />
+    <object type="obstacle" subtype="0" x="128" y="326" angle="0" />
+    <object type="obstacle" subtype="5" x="-276" y="-448" angle="0" />
+    <object type="obstacle" subtype="5" x="-154" y="-448" angle="0" />
+    <object type="obstacle" subtype="5" x="-29" y="-448" angle="0" />
+    <object type="obstacle" subtype="1" x="660" y="447" angle="0" />
+    <object type="obstacle" subtype="1" x="413" y="447" angle="0" />
+    <object type="obstacle" subtype="6" x="-317" y="167" angle="0" />
+    <object type="obstacle" subtype="6" x="213" y="517" angle="0" />
+    <object type="obstacle" subtype="3" x="415" y="-428" angle="90" />
+    <object type="obstacle" subtype="7" x="-266" y="-262" angle="0" />
+    <object type="obstacle" subtype="7" x="-266" y="-62" angle="0" />
+    <object type="objects" subtype="5" x="286" y="513" angle="0" />
+    <object type="objects" subtype="2" x="104" y="-434" angle="0" />
+    <object type="player" angle="0.0" rank="1" x="179" y="-175" />
+</map>

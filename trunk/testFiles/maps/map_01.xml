@@ -1,0 +1,81 @@
+<?xml version="1.0">
+<map>
+	<object type="perimeter">
+		<vertexlist>
+			<vertex id=0 x="100" y="100" />
+			<vertex id=1 x="350" y="100" />
+			<vertex id=2 x="350" y="250" />
+			<vertex id=3 x="450" y="250" />
+			<vertex id=4 x="450" y="100" />
+			<vertex id=5 x="700" y="100" />
+			<vertex id=6 x="700" y="250" />
+			<vertex id=7 x="550" y="250" />
+			<vertex id=7 x="550" y="350" />
+			<vertex id=9 x="700" y="350" />
+			<vertex id=10 x="700" y="500" />
+			<vertex id=11 x="450" y="500" />
+			<vertex id=12 x="450" y="350" />
+			<vertex id=13 x="350" y="350" />
+			<vertex id=14 x="350" y="500" />
+			<vertex id=15 x="100" y="500" />
+			<vertex id=16 x="100" y="450" />
+			<vertex id=17 x="175" y="450" />
+			<vertex id=18 x="175" y="150" />
+			<vertex id=19 x="100" y="150" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="210" y="300" />
+			<vertex id=1 x="210" y="335" />
+			<vertex id=2 x="500" y="335" />
+			<vertex id=3 x="500" y="300" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="475" y="225" />
+			<vertex id=1 x="550" y="225" />
+			<vertex id=2 x="550" y="215" />
+			<vertex id=3 x="475" y="215" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="475" y="225" />
+			<vertex id=1 x="485" y="225" />
+			<vertex id=2 x="485" y="125" />
+			<vertex id=3 x="475" y="125" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="475" y="125" />
+			<vertex id=1 x="475" y="135" />
+			<vertex id=2 x="675" y="135" />
+			<vertex id=3 x="675" y="125" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="665" y="125" />
+			<vertex id=1 x="665" y="225" />
+			<vertex id=2 x="675" y="225" />
+			<vertex id=3 x="675" y="125" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="675" y="225" />
+			<vertex id=1 x="675" y="215" />
+			<vertex id=2 x="600" y="215" />
+			<vertex id=3 x="600" y="225" />
+		</vertexlist>
+	</object>
+	<object type="player" x="150" y="150" ang="45" rank="1"/>
+	<object type="enemy" x="200" y="210" ang="45" rank="1"/>
+	<object type="enemy" x="160" y="161" ang="45" rank="1"/>
+	<object type="enemy" x="160" y="162" ang="45" rank="1"/>
+	<object type="enemy" x="160" y="163" ang="45" rank="1"/>
+	<object type="companion" x="140" y="140" ang="45" rank="2"/>
+</map>

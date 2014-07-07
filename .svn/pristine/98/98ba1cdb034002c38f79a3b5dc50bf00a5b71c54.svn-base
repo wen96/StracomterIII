@@ -1,0 +1,20 @@
+<?xml version="1.0">
+<entities>
+	
+	<entity name="captain" hp="100" speed="100" cadence="100" damage="10" morale="3" exp="0">
+		<color r="0.4" g="0.7" b="0.8" />	
+	</entity> 
+	
+	<entity name="enemy1" hp="45" speed="120" cadence="100" damage="1" morale="0" exp="3">
+		<color r="0.8" g="0.3" b="0.0" />	
+	</entity>
+	
+	<entity name="enemy2" hp="50" speed="100" cadence="200" damage="3" morale="0" exp="5">
+		<color r="1.0" g="0.0" b="0.0" />	
+	</entity>
+	
+	<entity name="enemy3" hp="65" speed="80" cadence="200" damage="4" morale="0" exp="7">
+		<color r="0.9" g="0.6" b="0.2" />	
+	</entity>
+	
+</entities>

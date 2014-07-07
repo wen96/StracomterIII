@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<map>
+    <object type="perimeter">
+        <vertexlist>
+            <vertex id="0" x="131" y="-40" />
+            <vertex id="1" x="1247" y="-40" />
+            <vertex id="2" x="1247" y="1092" />
+            <vertex id="3" x="131" y="1092" />
+        </vertexlist>
+    </object>
+    <object type="player" angle="0.0" rank="1" x="340" y="208" />
+</map>

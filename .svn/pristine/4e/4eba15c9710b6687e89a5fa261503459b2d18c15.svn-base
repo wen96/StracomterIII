@@ -1,0 +1,20 @@
+e patrullo
+e ataco
+e defiendo
+e huyo
+e curo
+t patrullo 1 ataco
+t patrullo 2 defiendo
+t patrullo 3 huyo
+t ataco 0 patrullo
+t ataco 1 defiendo
+t ataco 2 huyo
+t ataco 4 curo
+t defiendo 1 patrullo
+t defiendo 2 ataco
+t defiendo 4 curo
+t huyo 0 patrullo
+t huyo 1 defiendo
+t curo 0 patrullo
+t curo 1 defiendo
+i patrullo

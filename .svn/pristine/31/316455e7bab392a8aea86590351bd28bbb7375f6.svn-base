@@ -1,0 +1,32 @@
+<?xml version="1.0">
+<entities>
+	
+	<entity type="e_captain" hp="160" speed="150" force="3" cadence="100" damage="10" moral="3" exp="0">
+		<color r="0.1" g="0.5" b="0.1" a="1" />	
+	</entity> 
+
+	<entity type="e_tecnic" hp="85" speed="175" force="3" cadence="80" damage="7" moral="2" exp="0">
+		<color r="0.4" g="0.3" b="0.3" a="1" />	
+	</entity> 
+
+	<entity type="e_especialist" hp="125" speed="135" force="3" cadence="200" damage="5" moral="2" exp="0">
+		<color r="0.3" g="0.1" b="0.6" a="1" />	
+	</entity> 
+
+	<entity type="e_explosive" hp="110" speed="145" force="3" cadence="500" damage="9" moral="2" exp="0">
+		<color r="0.5" g="0.3" b="0.1" a="1" />	
+	</entity> 
+	
+	<entity type="e_enemy1" hp="45" speed="150" force="3" cadence="500" damage="1" moral="0" exp="3">
+		<color r="0.9" g="0.1" b="0.1" a="1" />	
+	</entity>
+	
+	<entity type="e_enemy2" hp="50" speed="140" force="3" cadence="800" damage="3" moral="0" exp="5">
+		<color r="1.0" g="0.3" b="0.3" a="1" />	
+	</entity>
+	
+	<entity type="e_enemy3" hp="65" speed="130" force="3" cadence="600" damage="2" moral="0" exp="7">
+		<color r="0.9" g="0.2" b="0.2" a="1" />	
+	</entity>
+	
+</entities>

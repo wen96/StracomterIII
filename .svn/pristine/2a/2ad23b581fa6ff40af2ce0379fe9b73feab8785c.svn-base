@@ -1,0 +1,26 @@
+<map>
+	<perimeter>
+		<vertexlist>
+			<vertex id=0>100,100</vertex>
+			<vertex id=1>700,100</vertex>
+			<vertex id=2>700,500</vertex>
+			<vertex id=3>100,500</vertex>
+		</vertexlist>
+	</perimeter>
+	<object>
+		<vertexlist>
+			<vertex id=0>115,250</vertex>
+			<vertex id=1>115,350</vertex>
+			<vertex id=2>550,350</vertex>
+			<vertex id=3>550,250</vertex>
+		</vertexlist>
+	</object>
+	<object>
+		<vertexlist>
+			<vertex id=0>300,150</vertex>
+			<vertex id=1>300,350</vertex>
+			<vertex id=2>400,350</vertex>
+			<vertex id=3>400,150</vertex>
+		</vertexlist>
+	</object>
+</map>

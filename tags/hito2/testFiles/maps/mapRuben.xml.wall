@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<map>
+    <object type="perimeter">
+        <vertexlist>
+            <vertex id="0" x="324" y="92" />
+            <vertex id="1" x="1503" y="92" />
+            <vertex id="2" x="1503" y="906" />
+            <vertex id="3" x="324" y="906" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="570" y="236" />
+            <vertex id="1" x="570" y="413" />
+            <vertex id="2" x="610" y="413" />
+            <vertex id="3" x="610" y="236" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="626" y="780" />
+            <vertex id="1" x="626" y="586" />
+            <vertex id="2" x="570" y="586" />
+            <vertex id="3" x="570" y="780" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1070" y="246" />
+            <vertex id="1" x="1070" y="410" />
+            <vertex id="2" x="803" y="410" />
+            <vertex id="3" x="803" y="246" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1070" y="800" />
+            <vertex id="1" x="1070" y="630" />
+            <vertex id="2" x="813" y="630" />
+            <vertex id="3" x="813" y="800" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="526" y="169" />
+            <vertex id="1" x="526" y="139" />
+            <vertex id="2" x="406" y="139" />
+            <vertex id="3" x="406" y="169" />
+        </vertexlist>
+    </object>
+    <object type="player" angle="0.0" rank="1" x="1396" y="226" />
+</map>

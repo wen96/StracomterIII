@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<navgraph>
+    <node id="0" x="72" y="-192" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="10" />
+        <adyacent id="11" />
+        <adyacent id="12" />
+    </node>
+    <node id="1" x="286" y="-176" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="13" />
+        <adyacent id="11" />
+    </node>
+    <node id="2" x="78" y="123" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="14" />
+        <adyacent id="15" />
+        <adyacent id="16" />
+    </node>
+    <node id="3" x="253" y="34" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="16" />
+        <adyacent id="17" />
+    </node>
+    <node id="4" x="32" y="-139" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="6" />
+        <adyacent id="12" />
+        <adyacent id="11" />
+        <adyacent id="18" />
+    </node>
+    <node id="5" x="54" y="-114" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="11" />
+        <adyacent id="16" />
+        <adyacent id="18" />
+    </node>
+    <node id="6" x="-102" y="-171" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="18" />
+        <adyacent id="19" />
+    </node>
+    <node id="7" x="45" y="-60" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="18" />
+        <adyacent id="16" />
+        <adyacent id="20" />
+    </node>
+    <node id="8" x="38" y="-29" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="9" />
+        <adyacent id="16" />
+        <adyacent id="15" />
+        <adyacent id="20" />
+    </node>
+    <node id="9" x="-81" y="17" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="21" />
+        <adyacent id="20" />
+    </node>
+    <node id="10" x="333" y="-249" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="13" />
+        <adyacent id="1" />
+    </node>
+    <node id="11" x="70" y="-130" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="1" />
+        <adyacent id="4" />
+        <adyacent id="16" />
+        <adyacent id="5" />
+    </node>
+    <node id="12" x="-144" y="-249" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="4" />
+        <adyacent id="19" />
+        <adyacent id="6" />
+    </node>
+    <node id="13" x="333" y="-130" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="1" />
+    </node>
+    <node id="14" x="333" y="233" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="17" />
+        <adyacent id="3" />
+    </node>
+    <node id="15" x="-144" y="233" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="8" />
+        <adyacent id="21" />
+        <adyacent id="9" />
+    </node>
+    <node id="16" x="70" y="-45" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="8" />
+        <adyacent id="0" />
+        <adyacent id="1635345505" />
+    </node>
+    <node id="17" x="333" y="-45" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="3" />
+    </node>
+    <node id="18" x="30" y="-130" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="19" />
+        <adyacent id="6" />
+        <adyacent id="20" />
+        <adyacent id="7" />
+    </node>
+    <node id="19" x="-144" y="-130" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="6" />
+    </node>
+    <node id="20" x="30" y="-45" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="8" />
+        <adyacent id="21" />
+        <adyacent id="9" />
+    </node>
+    <node id="21" x="-144" y="-45" enabled="1">
+        <adyacent id="0" />
+        <adyacent id="9" />
+    </node>
+</navgraph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone=no>
+<map>
+	<object type="perimeter">
+		<vertexlist>
+			<vertex id=0 x="100" y="100" />
+			<vertex id=1 x="700" y="100" />
+			<vertex id=2 x="700" y="500" />
+			<vertex id=3 x="100" y="500" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="200" y="150" />
+			<vertex id=1 x="200" y="200" />
+			<vertex id=2 x="600" y="200" />
+			<vertex id=3 x="600" y="150" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="200" y="400" />
+			<vertex id=1 x="200" y="450" />
+			<vertex id=2 x="600" y="450" />
+			<vertex id=3 x="600" y="400" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="300" y="250" />
+			<vertex id=1 x="300" y="350" />
+			<vertex id=2 x="500" y="350" />
+			<vertex id=3 x="500" y="250" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="150" y="250" />
+			<vertex id=1 x="150" y="350" />
+			<vertex id=2 x="250" y="350" />
+			<vertex id=3 x="250" y="250" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="550" y="250" />
+			<vertex id=1 x="550" y="350" />
+			<vertex id=2 x="650" y="350" />
+			<vertex id=3 x="650" y="250" />
+		</vertexlist>
+	</object>
+	<object type="player" x="150" y="300" ang="45" rank="1"/>
+</map>

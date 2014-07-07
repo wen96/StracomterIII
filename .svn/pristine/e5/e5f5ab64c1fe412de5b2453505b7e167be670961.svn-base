@@ -1,0 +1,14 @@
+Wankel Particles is under GPL3 license. You can check the license
+in http://gplv3.fsf.org/
+
+This project may contain traces of:
+
+	Simple Simple OpenGL Image Library (SOIL) by Lonesock 
+		http://www.lonesock.net/soil.html
+	Time util by Mathieu Pagé 
+		http://stackoverflow.com/a/122199/618145
+		
+
+In this demo, the camera is badly set. Try not to use billboarding, 
+it breaks the rendering. If you use your own main, with openGL correctly
+configured, it will work correctly.

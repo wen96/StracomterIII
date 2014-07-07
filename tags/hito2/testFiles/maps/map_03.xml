@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone=no>
+<map>
+	<object type="perimeter">
+		<vertexlist>
+			<vertex id=0 x="100" y="100" />
+			<vertex id=1 x="700" y="100" />
+			<vertex id=2 x="700" y="500" />
+			<vertex id=3 x="100" y="500" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="75" y="250" />
+			<vertex id=1 x="75" y="350" />
+			<vertex id=2 x="550" y="350" />
+			<vertex id=3 x="550" y="250" />
+		</vertexlist>
+	</object>
+	<object type="wall">
+		<vertexlist>
+			<vertex id=0 x="300" y="150" />
+			<vertex id=1 x="300" y="350" />
+			<vertex id=2 x="400" y="350" />
+			<vertex id=3 x="400" y="200" />
+		</vertexlist>
+	</object>
+</map>

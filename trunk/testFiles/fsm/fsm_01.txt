@@ -1,0 +1,19 @@
+e primero
+e segundo
+e pato
+e cuarto
+e quinto
+e sexto
+e septimo
+t primero 2 segundo
+t primero 1 septimo
+t segundo 2 pato
+t pato 2 cuarto
+t pato 1 segundo
+t pato 4 quinto
+t cuarto 2 quinto
+t cuarto 1 primero
+t cuarto 3 septimo
+t quinto 2 sexto
+t sexto 2 septimo
+i cuarto

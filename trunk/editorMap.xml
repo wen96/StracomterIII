@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+<map>
+    <object type="perimeter">
+        <vertexlist>
+            <vertex id="0" x="-603" y="475" />
+            <vertex id="1" x="-603" y="-971" />
+            <vertex id="2" x="1323" y="-971" />
+            <vertex id="3" x="1323" y="-307" />
+            <vertex id="4" x="353" y="-307" />
+            <vertex id="5" x="353" y="1833" />
+            <vertex id="6" x="1323" y="1833" />
+            <vertex id="7" x="1323" y="2594" />
+            <vertex id="8" x="-603" y="2594" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-175" y="-300" />
+            <vertex id="1" x="-175" y="-275" />
+            <vertex id="2" x="350" y="-275" />
+            <vertex id="3" x="350" y="-300" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-200" y="-725" />
+            <vertex id="1" x="-200" y="250" />
+            <vertex id="2" x="-175" y="250" />
+            <vertex id="3" x="-175" y="-725" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-200" y="-975" />
+            <vertex id="1" x="-200" y="-825" />
+            <vertex id="2" x="-175" y="-825" />
+            <vertex id="3" x="-175" y="-975" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-200" y="350" />
+            <vertex id="1" x="-200" y="575" />
+            <vertex id="2" x="-175" y="575" />
+            <vertex id="3" x="-175" y="350" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-200" y="675" />
+            <vertex id="1" x="-200" y="1075" />
+            <vertex id="2" x="-175" y="1075" />
+            <vertex id="3" x="-175" y="675" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-200" y="1175" />
+            <vertex id="1" x="-200" y="1825" />
+            <vertex id="2" x="-175" y="1825" />
+            <vertex id="3" x="-175" y="1175" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-200" y="1825" />
+            <vertex id="1" x="-200" y="1850" />
+            <vertex id="2" x="350" y="1850" />
+            <vertex id="3" x="350" y="1825" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-175" y="1000" />
+            <vertex id="1" x="-175" y="1025" />
+            <vertex id="2" x="350" y="1025" />
+            <vertex id="3" x="350" y="1000" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-175" y="400" />
+            <vertex id="1" x="-175" y="425" />
+            <vertex id="2" x="350" y="425" />
+            <vertex id="3" x="350" y="400" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-200" y="1850" />
+            <vertex id="1" x="-200" y="2325" />
+            <vertex id="2" x="-175" y="2325" />
+            <vertex id="3" x="-175" y="1850" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-175" y="2300" />
+            <vertex id="1" x="-175" y="2325" />
+            <vertex id="2" x="175" y="2325" />
+            <vertex id="3" x="175" y="2300" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="275" y="2300" />
+            <vertex id="1" x="275" y="2325" />
+            <vertex id="2" x="575" y="2325" />
+            <vertex id="3" x="575" y="2300" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="575" y="1850" />
+            <vertex id="1" x="575" y="2325" />
+            <vertex id="2" x="600" y="2325" />
+            <vertex id="3" x="600" y="1850" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="600" y="2300" />
+            <vertex id="1" x="600" y="2325" />
+            <vertex id="2" x="1025" y="2325" />
+            <vertex id="3" x="1025" y="2300" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="1125" y="2300" />
+            <vertex id="1" x="1125" y="2325" />
+            <vertex id="2" x="1325" y="2325" />
+            <vertex id="3" x="1325" y="2300" />
+        </vertexlist>
+    </object>
+    <object type="door">
+        <vertexlist>
+            <vertex id="0" x="-200" y="-825" />
+            <vertex id="1" x="-200" y="-725" />
+            <vertex id="2" x="-175" y="-725" />
+            <vertex id="3" x="-175" y="-825" />
+        </vertexlist>
+    </object>
+    <object type="door">
+        <vertexlist>
+            <vertex id="0" x="-200" y="250" />
+            <vertex id="1" x="-200" y="350" />
+            <vertex id="2" x="-175" y="350" />
+            <vertex id="3" x="-175" y="250" />
+        </vertexlist>
+    </object>
+    <object type="door">
+        <vertexlist>
+            <vertex id="0" x="-200" y="575" />
+            <vertex id="1" x="-200" y="675" />
+            <vertex id="2" x="-175" y="675" />
+            <vertex id="3" x="-175" y="575" />
+        </vertexlist>
+    </object>
+    <object type="door">
+        <vertexlist>
+            <vertex id="0" x="-200" y="1075" />
+            <vertex id="1" x="-200" y="1175" />
+            <vertex id="2" x="-175" y="1175" />
+            <vertex id="3" x="-175" y="1075" />
+        </vertexlist>
+    </object>
+    <object type="door">
+        <vertexlist>
+            <vertex id="0" x="175" y="2300" />
+            <vertex id="1" x="175" y="2325" />
+            <vertex id="2" x="275" y="2325" />
+            <vertex id="3" x="275" y="2300" />
+        </vertexlist>
+    </object>
+    <object type="door">
+        <vertexlist>
+            <vertex id="0" x="1025" y="2300" />
+            <vertex id="1" x="1025" y="2325" />
+            <vertex id="2" x="1125" y="2325" />
+            <vertex id="3" x="1125" y="2300" />
+        </vertexlist>
+    </object>
+    <object type="obstacle" subtype="1" x="738" y="2216" angle="0" />
+    <object type="obstacle" subtype="1" x="-34" y="2213" angle="0" />
+    <object type="obstacle" subtype="1" x="429" y="2210" angle="0" />
+    <object type="obstacle" subtype="1" x="-40" y="1931" angle="0" />
+    <object type="obstacle" subtype="7" x="1211" y="1989" angle="0" />
+    <object type="obstacle" subtype="7" x="1215" y="2196" angle="0" />
+    <object type="obstacle" subtype="4" x="651" y="2025" angle="0" />
+    <object type="obstacle" subtype="4" x="647" y="1929" angle="0" />
+    <object type="obstacle" subtype="1" x="-25" y="1672" angle="0" />
+    <object type="obstacle" subtype="7" x="238" y="1674" angle="0" />
+    <object type="obstacle" subtype="6" x="294" y="1065" angle="0" />
+    <object type="obstacle" subtype="0" x="295" y="1211" angle="0" />
+    <object type="obstacle" subtype="5" x="158" y="1055" angle="0" />
+    <object type="obstacle" subtype="5" x="0" y="1057" angle="0" />
+    <object type="obstacle" subtype="5" x="2" y="458" angle="0" />
+    <object type="obstacle" subtype="5" x="0" y="617" angle="0" />
+    <object type="obstacle" subtype="5" x="-2" y="763" angle="0" />
+    <object type="obstacle" subtype="5" x="0" y="922" angle="0" />
+    <object type="obstacle" subtype="1" x="214" y="298" angle="0" />
+    <object type="obstacle" subtype="7" x="213" y="-151" angle="0" />
+    <object type="obstacle" subtype="7" x="-38" y="-153" angle="0" />
+    <object type="obstacle" subtype="5" x="-25" y="369" angle="0" />
+    <object type="obstacle" subtype="7" x="-36" y="-412" angle="0" />
+    <object type="obstacle" subtype="7" x="218" y="-415" angle="0" />
+    <object type="obstacle" subtype="7" x="487" y="-415" angle="0" />
+    <object type="obstacle" subtype="7" x="966" y="-422" angle="0" />
+    <object type="obstacle" subtype="7" x="1187" y="-429" angle="0" />
+    <object type="obstacle" subtype="7" x="732" y="-418" angle="0" />
+    <object type="obstacle" subtype="5" x="35" y="-932" angle="0" />
+    <object type="obstacle" subtype="5" x="228" y="-936" angle="0" />
+    <object type="obstacle" subtype="5" x="408" y="-936" angle="0" />
+    <object type="obstacle" subtype="5" x="587" y="-939" angle="0" />
+    <object type="obstacle" subtype="7" x="1183" y="-825" angle="0" />
+    <object type="obstacle" subtype="7" x="966" y="-825" angle="0" />
+    <object type="obstacle" subtype="4" x="-133" y="-577" angle="0" />
+    <object type="obstacle" subtype="6" x="-115" y="-930" angle="0" />
+    <object type="obstacle" subtype="6" x="-546" y="-919" angle="16" />
+    <object type="objects" subtype="0" x="416" y="1980" angle="0" />
+    <object type="objects" subtype="0" x="119" y="853" angle="0" />
+    <object type="objects" subtype="4" x="124" y="539" angle="0" />
+    <object type="objects" subtype="5" x="117" y="709" angle="0" />
+    <object type="objects" subtype="0" x="279" y="161" angle="0" />
+    <object type="miniBoss" x="0" y="0" angle="0" />
+    <object type="player" angle="0.0" rank="1" x="1174" y="2522" />
+</map>

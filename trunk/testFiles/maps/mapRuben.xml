@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<map>
+    <object type="perimeter">
+        <vertexlist>
+            <vertex id="0" x="-170" y="108" />
+            <vertex id="1" x="-170" y="-304" />
+            <vertex id="2" x="389" y="-304" />
+            <vertex id="3" x="389" y="20" />
+            <vertex id="4" x="389" y="232" />
+            <vertex id="5" x="45" y="232" />
+            <vertex id="6" x="45" y="108" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="50" y="-150" />
+            <vertex id="1" x="50" y="-125" />
+            <vertex id="2" x="400" y="-125" />
+            <vertex id="3" x="400" y="-150" />
+        </vertexlist>
+    </object>
+    <object type="wall">
+        <vertexlist>
+            <vertex id="0" x="-175" y="-150" />
+            <vertex id="1" x="-175" y="-125" />
+            <vertex id="2" x="-50" y="-125" />
+            <vertex id="3" x="-50" y="-150" />
+        </vertexlist>
+    </object>
+    <object type="door">
+        <vertexlist>
+            <vertex id="0" x="-50" y="-150" />
+            <vertex id="1" x="-50" y="-125" />
+            <vertex id="2" x="50" y="-125" />
+            <vertex id="3" x="50" y="-150" />
+        </vertexlist>
+    </object>
+    <object type="obstacle" subtype="0" x="263" y="-73" angle="90" />
+    <object type="obstacle" subtype="1" x="292" y="-234" angle="0" />
+    <object type="obstacle" subtype="0" x="317" y="176" angle="0" />
+    <object type="objects" subtype="1" x="-128" y="-253" angle="0" />
+    <object type="objects" subtype="5" x="-138" y="-191" angle="0" />
+    <object type="objects" subtype="2" x="185" y="-259" angle="0" />
+    <object type="objects" subtype="1" x="178" y="-188" angle="0" />
+    <object type="player" angle="0.0" rank="1" x="0" y="0" />
+</map>
